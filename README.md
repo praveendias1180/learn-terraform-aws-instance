@@ -7,5 +7,6 @@ terraform init
 terraform fmt
 terraform validate
 terraform apply
+terraform show
 terraform destroy
 ```
